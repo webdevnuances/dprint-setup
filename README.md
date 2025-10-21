@@ -2,4 +2,4 @@
 
 Are you tired of opinionated code formatters like Prettier? Here's how to use the modern code formatter dprint in VS Code with npm — step by step.
 
-## [Youtube Tutorial Video](https://youtu.be/Kp-3VZIc0DY)
+## [Youtube Video Lecture](https://youtu.be/Kp-3VZIc0DY)
