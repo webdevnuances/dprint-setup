@@ -1,4 +1,4 @@
-# How To Setup Dprint in VScode in 2025: Unopinionated Code Formatter.
+# How To Setup Dprint in VScode: Unopinionated Code Formatter.
 
 Are you tired of opinionated code formatters like Prettier? Here's how to use the modern code formatter dprint in VS Code with npm — step by step.
 
